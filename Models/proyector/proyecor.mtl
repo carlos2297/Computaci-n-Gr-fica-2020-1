@@ -1,0 +1,77 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.10.2019 12:53:29
+
+newmtl 08___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\back.png
+	map_Kd C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\back.png
+	map_d C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\opacity back.png
+
+newmtl 01___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\CP-BENQ-9HJDY7713L.png
+	map_Kd C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\CP-BENQ-9HJDY7713L.png
+	map_d C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\opacity front.png
+
+newmtl 02___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\right.png
+	map_Kd C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\right.png
+	map_d C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\opacity right.png
+
+newmtl 07___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\left.png
+	map_Kd C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\left.png
+	map_d C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\opacity left.png
+
+newmtl 03___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\top.png
+	map_Kd C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\top.png
+	map_d C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Project1\Models\proyector\opacity top.png

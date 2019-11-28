@@ -1,0 +1,440 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.10.2019 17:08:48
+
+newmtl __Color_008_1
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.118 0.118 0.118
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\CoolerMaster-logo.png
+	map_Kd C:\Users\user\Desktop\gab\CoolerMaster-logo.png
+
+newmtl material_5
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\material_5.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\material_5.jpg
+
+newmtl Color_002
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.149 0.149 0.149
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl 01___Default
+	Ns 10.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.588 0.588 0.588
+	Kd 0.588 0.588 0.588
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\CoolerMaster-logo.png
+	map_Kd C:\Users\user\Desktop\gab\CoolerMaster-logo.png
+
+newmtl __Charcoal_
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.137 0.137 0.137
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl __Fencing_Diamond_Mesh_1
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\__Fencing_Diamond_Mesh_1.png
+	map_Kd C:\Users\user\Desktop\gab\model\__Fencing_Diamond_Mesh_1.png
+	map_d C:\Users\user\Desktop\gab\model\__Fencing_Diamond_Mesh_1.png
+
+newmtl material
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 1.000 1.000 1.000
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl __Black_
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.039 0.039 0.039
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl Color_008
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.118 0.118 0.118
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl __Fencing_Diamond_Mesh_2
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\__Fencing_Diamond_Mesh_2.png
+	map_Kd C:\Users\user\Desktop\gab\model\__Fencing_Diamond_Mesh_2.png
+	map_d C:\Users\user\Desktop\gab\model\__Fencing_Diamond_Mesh_2.png
+
+newmtl Color_I01
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.000 0.000 1.000
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl __Translucent_Glass_Blue_1
+	Ns 0.000
+	Ni 1.500
+	d 0.459
+	Tr 0.541
+	Tf 0.459 0.459 0.459 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.910 0.874 1.000
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl __Translucent_Glass_Gray_1
+	Ns 0.000
+	Ni 1.500
+	d 0.812
+	Tr 0.188
+	Tf 0.812 0.812 0.812 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.059 0.059 0.059
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl Color_009
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.000 0.000 0.000
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl Translucent_Glass_Gray
+	Ns 0.000
+	Ni 1.500
+	d 0.561
+	Tr 0.439
+	Tf 0.561 0.561 0.561 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.208 0.208 0.208
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl Metal_Aluminum_Anodized
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\Metal_Aluminum_Anodized.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\Metal_Aluminum_Anodized.jpg
+
+newmtl Color_004
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.557 0.557 0.557
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl Color_007
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.228 0.228 0.228
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl Color_C03
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 1.000 0.698 0.396
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl srebro
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.753 0.753 0.753
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl _0073_MediumSeaGreen
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.235 0.702 0.443
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl pcb_2
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\pcb_2.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\pcb_2.jpg
+
+newmtl bok
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\bok.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\bok.jpg
+
+newmtl pcb_1
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\pcb_1.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\pcb_1.jpg
+
+newmtl _0133_Gray
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.502 0.502 0.502
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl _0046_Gold
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 1.000 0.843 0.000
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl _0134_DimGray
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.412 0.412 0.412
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl etykietka_2_1
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\etykietka_2_1.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\etykietka_2_1.jpg
+
+newmtl etykietka_1
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\etykietka_1.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\etykietka_1.jpg
+
+newmtl stal
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.698 0.698 0.698
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl barracuda_top
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\barracuda_top.jpg
+	map_Kd C:\Users\user\Desktop\gab\model\barracuda_top.jpg
+
+newmtl black
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.000 0.000 0.000
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+
+newmtl material_0
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\texture.png
+	map_Kd C:\Users\user\Desktop\gab\model\texture.png
+
+newmtl material_1
+	Ns 0.000
+	Ni 1.500
+	d 1.000
+	Tr 0.000
+	Tf 1.000 1.000 1.000 
+	illum 2
+	Ka 0.200 0.200 0.200
+	Kd 0.800 0.800 0.800
+	Ks 0.000 0.000 0.000
+	Ke 0.000 0.000 0.000
+	map_Ka C:\Users\user\Desktop\gab\model\texture_0.png
+	map_Kd C:\Users\user\Desktop\gab\model\texture_0.png

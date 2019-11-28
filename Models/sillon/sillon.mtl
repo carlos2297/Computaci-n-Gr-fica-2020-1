@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.11.2019 20:39:37
+
+newmtl 01___Default
+	Ns 9.9999990
+	Ni 1.5000000
+	d 1.0000000
+	Tr 0.0000000
+	Tf 1.0000000 1.0000000 1.0000000 
+	illum 2
+	Ka 0.5882353 0.5882353 0.5882353
+	Kd 0.5882353 0.5882353 0.5882353
+	Ks 0.0000000 0.0000000 0.0000000
+	Ke 0.0000000 0.0000000 0.0000000
+	map_Ka Poltrona_Base_Color.png
+	map_Kd Poltrona_Base_Color.png
